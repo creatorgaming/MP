@@ -12,7 +12,7 @@ lea dx,msg1
 mov ah,09H
 int 21H
 
-mov al, 01h
+mov al, 09h
 
 mov bl,al
 
